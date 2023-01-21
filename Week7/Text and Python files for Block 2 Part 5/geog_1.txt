@@ -1,0 +1,465 @@
+"Happiness by UK, country, region, UA/ County in England, LADs in England, UAs in Wales, LAs in Scotland, LGDs in Northern Ireland, April 2014 to March 2015",,,,,,,,,
+,,,,,,,,,
+,,,,Per cent in each category on 11 point scale:,,,,Average (mean) rating,Sample size
+,,,,Low,Medium,High,Very High,,
+,,,,0-4,5-6,7-8,9-10,,
+Area Codes,Area names,,,,,,,,
+K02000001,UNITED KINGDOM,,,8.93,16.68,40.28,34.11,7.46,"165,160"
+E92000001,ENGLAND,,,8.95,16.73,40.47,33.85,7.45,"120,320"
+E12000001,NORTH EAST,,,10.77,17.05,39.06,33.13,7.34,"11,310"
+E06000047,,County Durham UA,,10.84,17.04,37.76,34.36,7.37,890
+E06000005,,Darlington UA,,9.76,15.43,38.68,36.13,7.46,"1,000"
+E06000001,,Hartlepool UA,,10.14,15.41,38.48,35.97,7.48,"1,160"
+E06000002,,Middlesbrough UA,,12.17,17.23,38.06,32.54,7.28,"1,060"
+E06000048,,Northumberland UA,,9.34,15.89,39.88,34.89,7.44,"1,020"
+E06000003,,Redcar and Cleveland UA,,8.55,17.00,41.77,32.68,7.46,980
+E06000004,,Stockton-on-Tees UA,,9.16,16.67,37.54,36.63,7.56,760
+E11000004,,Tyne and Wear (Met County),,11.65,17.71,39.58,31.07,7.24,"4,450"
+E08000020,,,Gateshead,11.40,17.38,40.45,30.78,7.25,860
+E08000021,,,Newcastle upon Tyne,10.73,17.79,44.72,26.75,7.20,930
+E08000022,,,North Tyneside,10.47,17.12,43.07,29.35,7.26,810
+E08000023,,,South Tyneside,13.70,16.81,36.68,32.81,7.20,970
+E08000024,,,Sunderland,12.61,18.72,32.28,36.39,7.27,880
+E12000002,NORTH WEST ,,,10.17,16.82,39.10,33.91,7.39,"19,460"
+E06000008,,Blackburn with Darwen UA,,10.40,20.08,33.23,36.29,7.34,860
+E06000009,,Blackpool UA,,11.29,18.74,37.04,32.93,7.30,810
+E06000049,,Cheshire East UA,,x,x,x,x,7.77,480
+E06000050,,Cheshire West and Chester UA,,10.89,13.84,39.01,36.27,7.49,420
+E06000006,,Halton UA,,11.77,15.89,38.40,33.95,7.31,900
+E06000007,,Warrington UA,,9.31,15.99,38.93,35.76,7.47,780
+E10000006,,Cumbria ,,7.98,17.02,36.69,38.31,7.61,960
+E07000026,,,Allerdale,x,x,x,x,8.06,170
+E07000027,,,Barrow-in-Furness,x,x,x,x,7.19,130
+E07000028,,,Carlisle,x,x,x,x,7.37,230
+E07000029,,,Copeland,x,x,x,x,7.61,120
+E07000030,,,Eden,x,x,x,x,7.57,110
+E07000031,,,South Lakeland,x,x,x,x,7.75,200
+E11000001,,Greater Manchester (Met County),,10.29,17.22,40.64,31.85,7.33,"8,650"
+E08000001,,,Bolton,11.84,14.65,38.31,35.19,7.41,810
+E08000002,,,Bury,8.35,16.51,41.61,33.53,7.53,680
+E08000003,,,Manchester,10.20,17.71,40.54,31.56,7.31,970
+E08000004,,,Oldham ,11.99,18.90,39.09,30.02,7.19,760
+E08000005,,,Rochdale,11.61,17.12,38.48,32.79,7.31,950
+E08000006,,,Salford,9.33,20.82,40.68,29.17,7.23,830
+E08000007,,,Stockport,8.05,17.69,43.55,30.71,7.41,980
+E08000008,,,Tameside,11.45,16.96,39.72,31.86,7.26,970
+E08000009,,,Trafford,9.27,17.86,39.60,33.26,7.40,880
+E08000010,,,Wigan,10.74,14.49,43.56,31.21,7.31,830
+E10000017,,Lancashire,,8.75,15.87,39.12,36.27,7.55,"1,480"
+E07000117,,,Burnley,x,x,x,x,7.52,100
+E07000118,,,Chorley,x,x,x,x,7.79,170
+E07000119,,,Fylde,x,x,x,x,7.78,120
+E07000120,,,Hyndburn,x,x,x,x,7.64,80
+E07000121,,,Lancaster,x,x,x,x,7.58,160
+E07000122,,,Pendle,x,x,x,x,7.72,110
+E07000123,,,Preston,x,x,x,x,7.22,170
+E07000124,,,Ribble Valley,x,x,x,x,8.21,70
+E07000125,,,Rossendale,x,x,x,x,7.31,80
+E07000126,,,South Ribble,x,x,x,x,7.80,140
+E07000127,,,West Lancashire,x,x,x,x,7.06,140
+E07000128,,,Wyre,x,x,x,x,7.48,140
+E11000002,,Merseyside (Met County),,13.06,17.96,35.99,32.99,7.19,"4,140"
+E08000011,,,Knowsley ,13.31,19.69,35.60,31.40,7.08,800
+E08000012,,,Liverpool,14.64,18.61,35.19,31.56,7.05,870
+E08000014,,,Sefton,11.38,16.56,37.99,34.07,7.35,870
+E08000013,,,St. Helens,10.35,20.25,37.08,32.32,7.26,840
+E08000015,,,Wirral,13.52,16.16,35.05,35.27,7.27,770
+E12000003,YORKSHIRE AND THE HUMBER,,,10.21,16.60,38.56,34.63,7.41,"13,110"
+E06000011,,East Riding of Yorkshire UA,,9.89,15.91,38.77,35.44,7.45,780
+E06000010,,"Kingston upon Hull, City of UA",,13.89,16.97,34.30,34.84,7.21,880
+E06000012,,North East Lincolnshire UA,,15.45,16.09,37.76,30.70,7.08,980
+E06000013,,North Lincolnshire UA,,8.52,13.69,39.46,38.34,7.68,830
+E06000014,,York UA,,9.86,17.53,39.86,32.75,7.38,"1,070"
+E10000023,,North Yorkshire,,7.78,15.75,40.82,35.65,7.59,780
+E07000163,,,Craven,x,x,x,x,7.72,80
+E07000164,,,Hambleton,x,x,x,x,7.76,90
+E07000165,,,Harrogate,x,x,x,x,7.64,200
+E07000166,,,Richmondshire,x,x,x,x,7.11,60
+E07000167,,,Ryedale,x,x,x,x,7.54,80
+E07000168,,,Scarborough,x,x,x,x,7.54,150
+E07000169,,,Selby,x,x,x,x,7.60,120
+E11000003,,South Yorkshire (Met County),,10.72,16.29,38.18,34.81,7.38,"3,420"
+E08000016,,,Barnsley,12.21,14.99,35.66,37.14,7.41,910
+E08000017,,,Doncaster,11.53,14.98,34.48,39.00,7.45,870
+E08000018,,,Rotherham ,12.05,16.52,40.26,31.17,7.21,850
+E08000019,,,Sheffield,9.08,17.43,40.25,33.24,7.40,790
+E11000006,,West Yorkshire (Met County),,9.98,17.25,38.50,34.26,7.40,"4,380"
+E08000032,,,Bradford ,9.40,16.44,39.59,34.57,7.47,780
+E08000033,,,Calderdale,10.46,16.00,39.14,34.40,7.40,860
+E08000034,,,Kirklees ,8.75,20.15,37.92,33.18,7.38,790
+E08000035,,,Leeds ,11.20,16.70,38.77,33.33,7.34,"1,050"
+E08000036,,,Wakefield,9.33,16.86,36.61,37.20,7.48,910
+E12000004,EAST MIDLANDS,,,8.66,16.74,38.62,35.99,7.51,"7,880"
+E06000015,,Derby UA ,,8.60,20.13,37.57,33.70,7.40,840
+E06000016,,Leicester UA,,10.82,19.78,32.40,37.00,7.37,910
+E06000018,,Nottingham UA,,11.65,20.81,34.92,32.62,7.22,960
+E06000017,,Rutland UA ,,x,x,x,x,7.73,280
+E10000007,,Derbyshire,,8.84,15.95,39.56,35.66,7.51,970
+E07000032,,,Amber Valley,x,x,x,x,7.71,150
+E07000033,,,Bolsover,x,x,x,x,6.89,80
+E07000034,,,Chesterfield,x,x,x,x,7.58,140
+E07000035,,,Derbyshire Dales,x,x,x,x,7.95,100
+E07000036,,,Erewash,x,x,x,x,7.73,130
+E07000037,,,High Peak,x,x,x,x,7.53,120
+E07000038,,,North East Derbyshire,x,x,x,x,7.23,130
+E07000039,,,South Derbyshire,x,x,x,x,7.42,130
+E10000018,,Leicestershire,,7.11,15.82,40.30,36.78,7.63,930
+E07000129,,,Blaby,x,x,x,x,8.06,130
+E07000130,,,Charnwood,x,x,x,x,7.53,220
+E07000131,,,Harborough,x,x,x,x,7.73,140
+E07000132,,,Hinckley and Bosworth,x,x,x,x,7.63,120
+E07000133,,,Melton,x,x,x,x,7.68,90
+E07000134,,,North West Leicestershire,x,x,x,x,7.38,140
+E07000135,,,Oadby and Wigston,x,x,x,x,7.46,90
+E10000019,,Lincolnshire ,,8.87,13.88,43.53,33.72,7.52,"1,040"
+E07000136,,,Boston,x,x,x,x,7.43,90
+E07000137,,,East Lindsey,x,x,x,x,7.47,220
+E07000138,,,Lincoln,x,x,x,x,7.20,120
+E07000139,,,North Kesteven,x,x,x,x,7.74,160
+E07000140,,,South Holland,x,x,x,x,7.15,110
+E07000141,,,South Kesteven,x,x,x,x,7.76,220
+E07000142,,,West Lindsey,x,x,x,x,7.80,120
+E10000021,,Northamptonshire ,,7.91,17.25,39.81,35.03,7.55,960
+E07000150,,,Corby,x,x,x,x,7.59,90
+E07000151,,,Daventry,x,x,x,x,7.71,80
+E07000152,,,East Northamptonshire,x,x,x,x,7.48,140
+E07000153,,,Kettering,x,x,x,x,7.56,130
+E07000154,,,Northampton,x,x,x,x,7.43,280
+E07000155,,,South Northamptonshire,x,x,x,x,7.82,130
+E07000156,,,Wellingborough,x,x,x,x,7.50,110
+E10000024,,Nottinghamshire,,8.29,16.87,34.71,40.14,7.57,980
+E07000170,,,Ashfield,x,x,x,x,7.61,130
+E07000171,,,Bassetlaw,x,x,x,x,7.81,150
+E07000172,,,Broxtowe,x,x,x,x,7.42,140
+E07000173,,,Gedling,x,x,x,x,7.62,140
+E07000174,,,Mansfield,x,x,x,x,7.51,120
+E07000175,,,Newark and Sherwood,x,x,x,x,7.41,140
+E07000176,,,Rushcliffe,x,x,x,x,7.62,150
+E12000005,WEST MIDLANDS,,,8.61,17.59,41.72,32.08,7.43,"11,940"
+E06000019,,"Herefordshire, County of UA",,8.52,14.01,39.24,38.23,7.59,"1,130"
+E06000051,,Shropshire UA,,6.04,16.66,39.45,37.85,7.71,860
+E06000021,,Stoke-on-Trent UA,,10.29,19.21,41.21,29.29,7.28,600
+E06000020,,Telford and Wrekin UA,,10.12,18.46,35.73,35.69,7.42,830
+E10000028,,Staffordshire,,9.90,16.53,39.53,34.04,7.45,"1,000"
+E07000192,,,Cannock Chase,x,x,x,x,6.92,110
+E07000193,,,East Staffordshire,x,x,x,x,7.61,120
+E07000194,,,Lichfield,x,x,x,x,7.79,130
+E07000195,,,Newcastle-under-Lyme,x,x,x,x,7.16,150
+E07000196,,,South Staffordshire,x,x,x,x,7.39,150
+E07000197,,,Stafford,x,x,x,x,7.62,170
+E07000198,,,Staffordshire Moorlands,x,x,x,x,7.88,110
+E07000199,,,Tamworth,x,x,x,x,7.23,70
+E10000031,,Warwickshire,,6.85,11.37,50.62,31.17,7.61,760
+E07000218,,,North Warwickshire,x,x,x,x,7.18,60
+E07000219,,,Nuneaton and Bedworth,x,x,x,x,7.70,140
+E07000220,,,Rugby,x,x,x,x,7.66,130
+E07000221,,,Stratford-on-Avon,x,x,x,x,7.71,200
+E07000222,,,Warwick,x,x,x,x,7.61,230
+E11000005,,West Midlands (Met County),,8.75,19.80,41.23,30.22,7.33,"5,930"
+E08000025,,,Birmingham,7.34,19.49,44.07,29.10,7.40,970
+E08000026,,,Coventry,7.48,18.04,46.66,27.83,7.41,710
+E08000027,,,Dudley ,8.83,21.35,39.16,30.66,7.31,780
+E08000028,,,Sandwell ,13.23,21.59,31.69,33.49,7.12,830
+E08000029,,,Solihull,6.86,17.05,44.21,31.89,7.48,900
+E08000030,,,Walsall,9.80,18.48,37.37,34.35,7.35,780
+E08000031,,,Wolverhampton,11.15,22.96,38.23,27.66,7.08,960
+E10000034,,Worcestershire,,7.98,15.55,42.74,33.73,7.54,830
+E07000234,,,Bromsgrove,x,x,x,x,7.36,130
+E07000235,,,Malvern Hills,x,x,x,x,7.54,130
+E07000236,,,Redditch,x,x,x,x,7.69,110
+E07000237,,,Worcester,x,x,x,x,7.31,140
+E07000238,,,Wychavon,x,x,x,x,7.90,170
+E07000239,,,Wyre Forest,x,x,x,x,7.41,150
+E12000006,EAST,,,8.53,15.69,41.69,34.09,7.51,"9,960"
+E06000055,,Bedford UA,,x,x,x,x,7.58,270
+E06000056,,Central Bedfordshire UA,,7.28,17.07,39.52,36.13,7.61,410
+E06000032,,Luton UA,,8.76,20.93,39.85,30.45,7.34,840
+E06000031,,Peterborough UA,,8.21,19.77,38.26,33.75,7.46,770
+E06000033,,Southend-on-Sea UA,,9.32,15.62,41.76,33.29,7.47,750
+E06000034,,Thurrock UA,,10.68,19.94,35.82,33.56,7.30,720
+E10000003,,Cambridgeshire,,9.08,12.99,43.93,34.00,7.50,910
+E07000008,,,Cambridge,x,x,x,x,7.33,150
+E07000009,,,East Cambridgeshire,x,x,x,x,8.03,120
+E07000010,,,Fenland,x,x,x,x,7.06,130
+E07000011,,,Huntingdonshire,x,x,x,x,7.43,270
+E07000012,,,South Cambridgeshire,x,x,x,x,7.77,240
+E10000012,,Essex,,7.57,15.42,42.07,34.93,7.60,"1,630"
+E07000066,,,Basildon,x,x,x,x,7.52,180
+E07000067,,,Braintree,x,x,x,x,7.82,190
+E07000068,,,Brentwood,x,x,x,x,7.58,80
+E07000069,,,Castle Point,x,x,x,x,7.37,90
+E07000070,,,Chelmsford,x,x,x,x,7.78,210
+E07000071,,,Colchester,x,x,x,x,7.72,190
+E07000072,,,Epping Forest,x,x,x,x,7.40,140
+E07000073,,,Harlow,x,x,x,x,7.44,90
+E07000074,,,Maldon,x,x,x,x,7.93,90
+E07000075,,,Rochford,x,x,x,x,7.55,110
+E07000076,,,Tendring,x,x,x,x,7.46,170
+E07000077,,,Uttlesford,x,x,x,x,7.51,100
+E10000015,,Hertfordshire ,,9.45,15.17,44.26,31.13,7.40,"1,410"
+E07000095,,,Broxbourne,x,x,x,x,7.14,110
+E07000096,,,Dacorum,x,x,x,x,7.60,180
+E07000097,,,East Hertfordshire,x,x,x,x,7.28,190
+E07000098,,,Hertsmere,x,x,x,x,7.12,110
+E07000099,,,North Hertfordshire,x,x,x,x,7.53,180
+E07000240,,,St Albans,x,x,x,x,7.16,170
+E07000101,,,Stevenage,x,x,x,x,7.70,130
+E07000102,,,Three Rivers,x,x,x,x,7.59,120
+E07000103,,,Watford,x,x,x,x,7.40,100
+E07000241,,,Welwyn Hatfield,x,x,x,x,7.50,130
+E10000020,,Norfolk ,,8.09,16.78,39.88,35.24,7.55,"1,170"
+E07000143,,,Breckland,x,x,x,x,7.46,200
+E07000144,,,Broadland,x,x,x,x,7.45,170
+E07000145,,,Great Yarmouth,x,x,x,x,7.76,110
+E07000146,,,Kings Lynn and West Norfolk,x,x,x,x,7.52,200
+E07000147,,,North Norfolk,x,x,x,x,7.43,150
+E07000148,,,Norwich,x,x,x,x,7.49,180
+E07000149,,,South Norfolk,x,x,x,x,7.80,170
+E10000029,,Suffolk,,9.17,14.58,39.70,36.55,7.54,"1,090"
+E07000200,,,Babergh,x,x,x,x,7.60,120
+E07000201,,,Forest Heath,x,x,x,x,7.63,90
+E07000202,,,Ipswich,x,x,x,x,7.27,230
+E07000203,,,Mid Suffolk,x,x,x,x,7.45,130
+E07000204,,,St Edmundsbury,x,x,x,x,8.00,150
+E07000205,,,Suffolk Coastal,12.02,17.48,34.14,36.36,7.34,210
+E07000206,,,Waveney,x,x,x,x,7.64,160
+E12000007,LONDON,,,8.32,18.30,42.20,31.18,7.38,"13,560"
+E13000001,,Inner London,,7.57,20.23,42.66,29.54,7.33,"5,760"
+E09000007,,,Camden,8.33,22.20,42.41,27.05,7.22,470
+E09000001,,,City of London,x,x,x,x,x,0
+E09000012,,,Hackney ,10.10,19.44,43.41,27.06,7.18,420
+E09000013,,,Hammersmith and Fulham ,9.50,18.32,38.83,33.34,7.34,470
+E09000014,,,Haringey,8.27,19.44,42.72,29.58,7.27,430
+E09000019,,,Islington,x,x,x,x,7.16,350
+E09000020,,,Kensington and Chelsea,8.25,15.33,44.09,32.33,7.46,580
+E09000022,,,Lambeth ,x,x,x,x,7.34,340
+E09000023,,,Lewisham ,8.97,21.53,39.07,30.43,7.23,430
+E09000025,,,Newham ,x,x,x,x,7.56,420
+E09000028,,,Southwark,8.67,16.93,42.20,32.21,7.43,550
+E09000030,,,Tower Hamlets,6.34,23.92,41.31,28.43,7.26,390
+E09000032,,,Wandsworth,x,x,x,x,7.39,360
+E09000033,,,Westminster,x,x,x,x,7.41,550
+E13000002,,Outer London,,8.82,17.01,41.90,32.28,7.42,"7,810"
+E09000002,,,Barking and Dagenham,11.27,20.84,34.75,33.14,7.24,370
+E09000003,,,Barnet,8.53,13.05,47.48,30.94,7.46,360
+E09000004,,,Bexley,8.74,20.46,37.10,33.69,7.39,400
+E09000005,,,Brent ,6.79,20.62,45.82,26.77,7.36,580
+E09000006,,,Bromley,7.64,17.81,38.75,35.80,7.48,550
+E09000008,,,Croydon,10.88,17.18,36.95,34.98,7.39,400
+E09000009,,,Ealing,x,x,x,x,7.48,390
+E09000010,,,Enfield,x,x,x,x,7.44,340
+E09000011,,,Greenwich,12.61,18.58,35.80,33.01,7.17,350
+E09000015,,,Harrow,x,x,x,x,7.51,540
+E09000016,,,Havering,9.90,19.05,40.03,31.03,7.28,430
+E09000017,,,Hillingdon,11.47,16.08,40.60,31.86,7.31,450
+E09000018,,,Hounslow,9.48,16.03,36.05,38.45,7.56,400
+E09000021,,,Kingston upon Thames,7.08,16.89,45.34,30.68,7.49,380
+E09000024,,,Merton,8.89,16.27,40.74,34.10,7.51,390
+E09000026,,,Redbridge,8.86,18.22,36.90,36.01,7.45,450
+E09000027,,,Richmond upon Thames,8.20,13.01,47.97,30.82,7.48,390
+E09000029,,,Sutton,x,x,x,x,7.51,300
+E09000031,,,Waltham Forest,10.29,16.05,37.88,35.78,7.42,320
+E12000008,SOUTH EAST,,,7.97,15.83,40.88,35.32,7.54,"19,490"
+E06000036,,Bracknell Forest UA,,8.23,18.87,44.84,28.06,7.33,900
+E06000043,,Brighton and Hove UA,,9.35,19.96,42.97,27.73,7.26,930
+E06000046,,Isle of Wight UA,,8.06,15.55,37.35,39.04,7.62,"1,280"
+E06000035,,Medway UA,,10.84,18.95,36.29,33.92,7.29,990
+E06000042,,Milton Keynes UA,,9.55,15.55,38.68,36.22,7.52,850
+E06000044,,Portsmouth UA,,6.81,15.82,42.99,34.38,7.60,960
+E06000038,,Reading UA,,5.25,17.80,46.08,30.88,7.55,970
+E06000039,,Slough UA,,12.07,17.70,35.63,34.60,7.27,790
+E06000045,,Southampton UA,,6.77,16.37,40.39,36.47,7.63,810
+E06000037,,West Berkshire UA,,7.92,13.81,44.34,33.93,7.56,850
+E06000040,,Windsor and Maidenhead UA,,7.71,16.69,43.00,32.59,7.49,860
+E06000041,,Wokingham UA,,7.66,12.38,47.16,32.79,7.59,750
+E10000002,,Buckinghamshire,,7.70,15.54,44.53,32.23,7.46,930
+E07000004,,,Aylesbury Vale,8.01,18.58,43.71,29.70,7.33,300
+E07000005,,,Chiltern,x,x,x,x,7.95,200
+E07000006,,,South Bucks,x,x,x,x,7.62,130
+E07000007,,,Wycombe,9.85,15.32,45.71,29.13,7.29,290
+E10000011,,East Sussex,,9.71,14.83,37.53,37.93,7.47,940
+E07000061,,,Eastbourne,x,x,x,x,7.43,180
+E07000062,,,Hastings,x,x,x,x,7.30,120
+E07000063,,,Lewes,x,x,x,x,7.42,190
+E07000064,,,Rother,x,x,x,x,7.66,160
+E07000065,,,Wealden,x,x,x,x,7.51,300
+E10000014,,Hampshire,,6.99,14.56,42.35,36.10,7.64,"1,680"
+E07000084,,,Basingstoke and Deane,x,x,x,x,7.35,230
+E07000085,,,East Hampshire,x,x,x,x,7.63,150
+E07000086,,,Eastleigh,x,x,x,x,7.68,140
+E07000087,,,Fareham,x,x,x,x,7.59,140
+E07000088,,,Gosport,x,x,x,x,7.52,100
+E07000089,,,Hart,x,x,x,x,7.95,110
+E07000090,,,Havant,x,x,x,x,7.62,160
+E07000091,,,New Forest,x,x,x,x,7.94,250
+E07000092,,,Rushmoor,x,x,x,x,7.55,110
+E07000093,,,Test Valley,x,x,x,x,7.52,170
+E07000094,,,Winchester,x,x,x,x,7.66,150
+E10000016,,Kent,,10.05,16.23,35.03,38.69,7.46,"1,680"
+E07000105,,,Ashford,x,x,x,x,7.68,150
+E07000106,,,Canterbury,x,x,x,x,7.09,170
+E07000107,,,Dartford,x,x,x,x,7.53,90
+E07000108,,,Dover,x,x,x,x,7.03,150
+E07000109,,,Gravesham,x,x,x,x,7.77,100
+E07000110,,,Maidstone,x,x,x,x,7.75,200
+E07000111,,,Sevenoaks,x,x,x,x,7.72,130
+E07000112,,,Shepway,x,x,x,x,7.58,160
+E07000113,,,Swale,x,x,x,x,7.34,170
+E07000114,,,Thanet,x,x,x,x,7.32,140
+E07000115,,,Tonbridge and Malling,x,x,x,x,7.43,120
+E07000116,,,Tunbridge Wells,x,x,x,x,7.55,120
+E10000025,,Oxfordshire ,,5.48,13.02,46.13,35.37,7.74,810
+E07000177,,,Cherwell,x,x,x,x,7.64,180
+E07000178,,,Oxford,x,x,x,x,7.52,160
+E07000179,,,South Oxfordshire,x,x,x,x,8.00,180
+E07000180,,,Vale of White Horse,x,x,x,x,7.71,170
+E07000181,,,West Oxfordshire,x,x,x,x,7.91,130
+E10000030,,Surrey,,7.00,17.56,42.40,33.05,7.51,"1,440"
+E07000207,,,Elmbridge,x,x,x,x,7.32,150
+E07000208,,,Epsom and Ewell,x,x,x,x,7.82,90
+E07000209,,,Guildford,x,x,x,x,7.62,180
+E07000210,,,Mole Valley,x,x,x,x,7.89,100
+E07000211,,,Reigate and Banstead,x,x,x,x,7.53,150
+E07000212,,,Runnymede,x,x,x,x,7.11,130
+E07000213,,,Spelthorne,x,x,x,x,7.39,140
+E07000214,,,Surrey Heath,x,x,x,x,7.43,130
+E07000215,,,Tandridge,x,x,x,x,7.84,80
+E07000216,,,Waverley,x,x,x,x,7.61,160
+E07000217,,,Woking,x,x,x,x,7.30,140
+E10000032,,West Sussex,,6.87,15.15,41.50,36.48,7.68,"1,090"
+E07000223,,,Adur,x,x,x,x,7.54,90
+E07000224,,,Arun,x,x,x,x,7.68,180
+E07000225,,,Chichester,x,x,x,x,7.92,150
+E07000226,,,Crawley,x,x,x,x,7.55,140
+E07000227,,,Horsham,x,x,x,x,7.72,200
+E07000228,,,Mid Sussex,x,x,x,x,7.69,190
+E07000229,,,Worthing,x,x,x,x,7.62,130
+E12000009,SOUTH WEST,,,8.79,15.92,40.44,34.84,7.50,"13,600"
+E06000022,,Bath and North East Somerset UA,,7.42,14.08,46.76,31.74,7.57,"1,060"
+E06000028,,Bournemouth UA,,9.99,15.54,42.38,32.10,7.40,900
+E06000023,,"Bristol, City of UA",,10.78,19.24,38.61,31.37,7.21,770
+E06000052,,Cornwall UA,,10.41,14.62,39.12,35.85,7.48,930
+E06000053,,Isles of Scilly UA,,#,#,#,#,#,#
+E06000024,,North Somerset UA,,8.44,18.45,41.13,31.98,7.42,750
+E06000026,,Plymouth UA,,12.59,17.27,35.55,34.59,7.28,"1,170"
+E06000029,,Poole UA,,8.46,14.19,43.88,33.47,7.57,890
+E06000025,,South Gloucestershire UA,,8.68,13.23,44.13,33.95,7.54,680
+E06000030,,Swindon UA,,9.27,18.82,39.69,32.22,7.36,920
+E06000027,,Torbay UA,,10.51,16.65,40.94,31.90,7.36,"1,050"
+E06000054,,Wiltshire UA,,8.33,15.91,40.97,34.78,7.53,"1,010"
+E10000008,,Devon,,6.28,15.41,40.19,38.12,7.70,950
+E07000040,,,East Devon,x,x,x,x,7.96,140
+E07000041,,,Exeter,x,x,x,x,7.45,130
+E07000042,,,Mid Devon,x,x,x,x,7.69,100
+E07000043,,,North Devon,x,x,x,x,7.91,110
+E07000044,,,South Hams,x,x,x,x,7.65,130
+E07000045,,,Teignbridge,x,x,x,x,7.88,180
+E07000046,,,Torridge,x,x,x,x,7.53,80
+E07000047,,,West Devon,x,x,x,x,7.29,80
+E10000009,,Dorset,,7.46,13.37,38.67,40.50,7.73,890
+E07000048,,,Christchurch,x,x,x,x,7.51,120
+E07000049,,,East Dorset,x,x,x,x,7.60,190
+E07000050,,,North Dorset,x,x,x,x,7.93,150
+E07000051,,,Purbeck,x,x,x,x,7.74,90
+E07000052,,,West Dorset,x,x,x,x,7.91,220
+E07000053,,,Weymouth and Portland,x,x,x,x,7.61,130
+E10000013,,Gloucestershire,,9.31,17.32,39.67,33.70,7.46,870
+E07000078,,,Cheltenham,x,x,x,x,7.29,180
+E07000079,,,Cotswold,x,x,x,x,7.76,130
+E07000080,,,Forest of Dean,x,x,x,x,7.11,110
+E07000081,,,Gloucester,x,x,x,x,7.55,160
+E07000082,,,Stroud,x,x,x,x,7.45,160
+E07000083,,,Tewkesbury,x,x,x,x,7.59,140
+E10000027,,Somerset ,,7.83,15.47,42.05,34.65,7.53,780
+E07000187,,,Mendip,x,x,x,x,7.67,160
+E07000188,,,Sedgemoor,x,x,x,x,7.64,160
+E07000189,,,South Somerset,x,x,x,x,7.43,250
+E07000190,,,Taunton Deane,x,x,x,x,7.26,150
+E07000191,,,West Somerset,x,x,x,x,8.14,60
+W92000004,WALES,,,9.56,16.54,39.45,34.45,7.44,"19,540"
+W06000001,,,Isle of Anglesey / Ynys Mon,7.91,15.88,34.88,41.32,7.64,"1,060"
+W06000002,,,Gwynedd / Gwynedd,7.82,13.81,44.36,34.02,7.57,830
+W06000003,,,Conwy / Conwy,7.93,14.75,42.58,34.75,7.56,"1,110"
+W06000004,,,Denbighshire / Sir Ddinbych,8.71,15.61,40.35,35.32,7.55,990
+W06000005,,,Flintshire / Sir y Fflint,8.75,16.95,42.37,31.92,7.46,930
+W06000006,,,Wrexham / Wrecsam,11.55,17.06,35.74,35.65,7.39,910
+W06000023,,,Powys / Powys,9.14,15.46,40.93,34.47,7.47,900
+W06000008,,,Ceredigion / Ceredigion,5.98,17.98,41.09,34.95,7.61,920
+W06000009,,,Pembrokeshire / Sir Benfro,8.71,14.74,40.46,36.10,7.57,880
+W06000010,,,Carmarthenshire / Sir Gaerfyrddin,10.17,15.65,39.39,34.80,7.48,920
+W06000011,,,Swansea / Abertawe,8.54,16.71,43.42,31.34,7.41,910
+W06000012,,,Neath Port Talbot / Castell-nedd Port Talbot,12.43,17.03,35.89,34.64,7.28,920
+W06000013,,,Bridgend / Pen-y-bont ar Ogwr,10.56,17.78,37.06,34.60,7.40,830
+W06000014,,,The Vale of Glamorgan / Bro Morgannwg,12.00,18.80,36.25,32.94,7.24,880
+W06000015,,,Cardiff / Caerdydd,7.97,15.26,42.08,34.70,7.50,930
+W06000016,,,Rhondda Cynon Taf / Rhondda Cynon Taf,8.60,18.40,37.68,35.32,7.45,860
+W06000024,,,Merthyr Tydfil / Merthyr Tudful,12.97,20.26,31.63,35.14,7.17,580
+W06000018,,,Caerphilly / Caerffili,9.17,18.59,38.42,33.81,7.39,910
+W06000019,,,Blaenau Gwent / Blaenau Gwent,14.28,15.70,33.82,36.20,7.29,730
+W06000020,,,Torfaen / Tor-faen,10.65,18.45,37.25,33.65,7.30,830
+W06000021,,,Monmouthshire / Sir Fynwy,8.44,14.76,40.88,35.92,7.59,980
+W06000022,,,Newport / Casnewydd,13.50,15.96,37.12,33.43,7.22,730
+S92000003,SCOTLAND,,,9.16,16.90,39.75,34.19,7.45,"22,760"
+S12000033,,,Aberdeen City,7.62,20.43,42.41,29.55,7.40,730
+S12000034,,,Aberdeenshire,x,x,x,x,7.64,630
+S12000041,,,Angus,9.18,15.21,38.35,37.27,7.60,680
+S12000035,,,Argyll and Bute,8.64,12.51,40.21,38.63,7.68,890
+S12000005,,,Clackmannanshire,9.71,17.89,38.59,33.81,7.38,330
+S12000006,,,Dumfries and Galloway,7.05,11.84,40.33,40.78,7.81,"1,110"
+S12000042,,,Dundee City,12.09,21.47,40.84,25.60,7.02,870
+S12000008,,,East Ayrshire,13.07,15.53,37.62,33.78,7.27,810
+S12000045,,,East Dunbartonshire,8.28,13.64,40.96,37.12,7.62,760
+S12000010,,,East Lothian,9.45,16.88,39.01,34.66,7.45,690
+S12000011,,,East Renfrewshire,7.61,15.68,42.83,33.88,7.50,690
+S12000036,,,City of Edinburgh,7.01,13.75,45.74,33.49,7.61,720
+*,,"Eilean Siar, Orkney & Shetland",,x,x,x,x,7.99,620
+S12000013,,,Eilean Siar,x,x,x,x,8.15,290
+S12000023,,,Orkney Islands,x,x,x,x,8.09,180
+S12000027,,,Shetland Islands,x,x,x,x,7.72,150
+S12000014,,,Falkirk,7.66,10.88,49.96,31.49,7.61,860
+S12000015,,,Fife,10.49,18.24,35.49,35.78,7.40,780
+S12000046,,,Glasgow City,9.89,23.34,37.68,29.09,7.17,630
+S12000017,,,Highland,7.33,12.34,38.95,41.38,7.79,880
+S12000018,,,Inverclyde,11.35,18.11,35.56,34.98,7.36,710
+S12000019,,,Midlothian,10.05,14.85,45.51,29.59,7.39,540
+S12000020,,,Moray,8.46,17.03,39.99,34.51,7.50,850
+S12000021,,,North Ayrshire,12.44,17.37,36.03,34.17,7.27,870
+S12000044,,,North Lanarkshire,10.46,19.25,35.21,35.08,7.34,790
+S12000024,,,Perth and Kinross,7.01,13.80,42.05,37.13,7.69,780
+S12000038,,,Renfrewshire,10.96,18.49,35.82,34.72,7.32,850
+S12000026,,,Scottish Borders ,8.64,15.50,37.58,38.28,7.57,890
+S12000028,,,South Ayrshire,10.69,15.28,32.35,41.68,7.55,870
+S12000029,,,South Lanarkshire,11.23,16.86,36.11,35.80,7.37,800
+S12000030,,,Stirling,8.93,14.23,42.12,34.72,7.56,610
+S12000039,,,West Dunbartonshire,11.63,18.79,39.80,29.78,7.20,740
+S12000040,,,West Lothian,9.14,14.37,45.99,30.50,7.44,790
+N92000002,NORTHERN IRELAND,,,6.76,14.66,37.57,41.00,7.75,"2,540"
+N09000001,,,Antrim and Newtownabbey,x,x,x,x,7.99,150
+N09000002,,,"Armagh, Banbridge and Craigavon",x,x,x,x,8.04,290
+N09000003,,,Belfast,9.59,17.38,41.46,31.57,7.35,490
+N09000004,,,Causeway Coast and Glens,x,x,x,x,7.92,210
+N09000005,,,Derry and Strabane,x,x,x,x,7.48,210
+N09000006,,,Fermanagh and Omagh,x,x,x,x,8.26,180
+N09000007,,,Lisburn and Castlereagh,x,x,x,x,7.69,180
+N09000008,,,Mid and East Antrim,x,x,x,x,8.03,210
+N09000009,,,Mid Ulster,x,x,x,x,7.91,190
+N09000010,,,"Newry, Mourne and Down",x,x,x,x,7.84,240
+N09000011,,,North Down and Ards,x,x,x,x,7.32,200
+,,,,,,,,,
+"1 Question: Overall, how happy did you feel yesterday?  Where 0 is 'not at all happy' and 10 is 'completely happy'.",,,,,,,,,
+2 All estimates weighted.,,,,,,,,,
+3 Estimates may not add to 100% due to rounding.,,,,,,,,,
+4 Estimates for 2014/15 have been weighted using population totals from the 2011 census. Estimates from previous years were weighted to population totals from the 2001 census. This difference may impact estimates but it is impossible to quantify and is likely to be small. ,,,,,,,,,
+5 Northern Ireland reformed its local government boundaries in April 2015. Estimates have been provided by the 11 newly created boundaries. For more information see http://www.doeni.gov.uk/local_government_reform,,,,,,,,,
+# Data unavailable.,,,,,,,,,
+* There is no single geography code for these combined areas.,,,,,,,,,
+"x Data has been suppressed as the CV> 20% or unavailable, or the sample size is insufficient.",,,,,,,,,
+"The colour coding indicates the variability around each estimate as measured by its co-efficient of variation, which is the ratio of the standard error of an estimate to the estimate. ",,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+"Source: April 2014 to March 2015, Annual Population Survey Personal Well-being National Statistics dataset, Office for National Statistics",,,,,,,,,
+,,,,,,,,,
+Main table contents,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

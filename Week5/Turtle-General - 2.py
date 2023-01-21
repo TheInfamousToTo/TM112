@@ -1,0 +1,58 @@
+import turtle
+t = turtle.Turtle()
+t.pensize(3)
+
+
+t.color('green', 'red')
+t.begin_fill()
+t.setx(0)
+t.circle(50)
+t.end_fill()
+
+
+t.color('red', 'yellow')
+t.begin_fill()
+t.pu()
+t.setx(80)
+t.pd()
+t.forward(90)
+t.left(90)
+t.forward(90)
+t.left(90)
+t.forward(90)
+t.left(90)
+t.forward(90)
+t.left(90)
+t.end_fill()
+
+t.pu()
+t.setx(0)
+t.sety(-110)
+t.color('blue', 'pink')
+t.begin_fill()
+t.pd()
+t.forward(50)
+t.left(60)
+t.forward(50)
+t.left(60)
+t.forward(50)
+t.left(60)
+t.forward(50)
+t.left(60)
+t.forward(50)
+t.left(60)
+t.forward(50)
+t.left(60)
+t.end_fill()
+
+t.color('green', 'red')
+t.begin_fill()
+t.pu()
+t.setx(150)
+t.sety(-110)
+t.pd()
+t.circle(50)
+t.end_fill()
+
+
+
